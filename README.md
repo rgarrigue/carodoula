@@ -4,4 +4,4 @@ Un site web pour une Doula, réalisé via [Hugo](https://gohugo.io/), avec le th
 
 ## Publication
 
-Mis en ligne via https://pages.cloudflare.com/. Suivre le tutorial, puis ajouter une variable d'environnement HUGO_VERSION=0.81.1
+Mis en ligne via https://pages.cloudflare.com/. Suivre le tutorial, puis ajouter une variable d'environnement HUGO_VERSION=0.81.0
